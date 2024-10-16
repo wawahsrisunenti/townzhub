@@ -40,4 +40,49 @@ class HomeController extends Controller
     {
         return view('frontend.faq');
     }
+
+    public function agents()
+    {
+        return view('frontend.agents');
+    }
+
+    public function agentsDetail()
+    {
+        return view('frontend.agents-detail');
+    }
+
+    public function agentsSidebarv1()
+    {
+        return view('frontend.agents-sidebar-v1');
+    }
+
+    public function agentsSidebarv2()
+    {
+        return view('frontend.agents-sidebar-v2');
+    }
+
+    public function agencies()
+    {
+        return view('frontend.agencies');
+    }
+    public function agenciesDetail()
+    {
+        return view('frontend.agencies-detail');
+    }
+
+    public function agenciesSidebarv1()
+    {
+        return view('frontend.agencies-sidebar-v1');
+    }
+
+    public function agenciesSidebarv2()
+    {
+        return view('frontend.agencies-sidebar-v2');
+    }
+
+    public function blog()
+    {
+        return view('frontend.blog');
+    }
+
 }

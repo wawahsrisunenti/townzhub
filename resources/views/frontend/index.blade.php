@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>TOWNZHUB - Lorem Ipsum</title>
+    <title>TOWNZHUB - Lorem Ipsum Dolor Sit</title>
 
     <meta name="author" content="themesflat.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -14,8 +14,6 @@
     <link rel="stylesheet" href="app/dist/responsive.css">
     <link rel="stylesheet" href="app/dist/owl.css">
     <link rel="stylesheet" href="app/dist/animate.css">
-
-
 
     <!-- Favicon and Touch Icons  -->
     <link rel="shortcut icon" href="assets/images/logo/Favicon.png">
