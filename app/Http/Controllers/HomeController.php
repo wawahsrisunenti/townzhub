@@ -11,24 +11,19 @@ class HomeController extends Controller
         return view('frontend.index');
     }
 
-    public function home02()
+    public function property()
     {
-        return view('frontend.home02');
+        return view('frontend.property-detail-v1');
     }
 
-    public function home03()
+    public function propertyGrid()
     {
-        return view('frontend.home03');
+        return view('frontend.properties-grid');
     }
 
-    public function home04()
+    public function propertyMap()
     {
-        return view('frontend.home04');
-    }
-
-    public function home05()
-    {
-        return view('frontend.home05');
+        return view('frontend.properties-map-v1');
     }
 
     public function about()
@@ -51,16 +46,6 @@ class HomeController extends Controller
         return view('frontend.agents-detail');
     }
 
-    public function agentsSidebarv1()
-    {
-        return view('frontend.agents-sidebar-v1');
-    }
-
-    public function agentsSidebarv2()
-    {
-        return view('frontend.agents-sidebar-v2');
-    }
-
     public function agencies()
     {
         return view('frontend.agencies');
@@ -70,19 +55,18 @@ class HomeController extends Controller
         return view('frontend.agencies-detail');
     }
 
-    public function agenciesSidebarv1()
-    {
-        return view('frontend.agencies-sidebar-v1');
-    }
-
-    public function agenciesSidebarv2()
-    {
-        return view('frontend.agencies-sidebar-v2');
-    }
-
     public function blog()
     {
         return view('frontend.blog');
     }
 
+    public function blogDetail()
+    {
+        return view('frontend.blog-detail');
+    }
+
+    public function contact()
+    {
+        return view('frontend.contact');
+    }
 }
