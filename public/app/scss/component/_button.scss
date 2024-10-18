@@ -1,6 +1,6 @@
 @use '../abstracts/' as *;
 
-/* button 
+/* button
 --------------------------------------------------*/
 .sc-button {
     display      : inline-block;
@@ -24,7 +24,7 @@
     &.active {
         border-color: transparent;
         outline: 0 none;
-        background-color: rgb(242, 149, 0);
+        background-color: rgb(149, 0, 242);
         svg {
           animation: 0.3s link-icon2 linear;
         }
@@ -53,7 +53,7 @@
         }
         svg {
           animation: 0.3s link-icon2 linear;
-          
+
         }
         svg,
         path {

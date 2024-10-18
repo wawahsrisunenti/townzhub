@@ -17,7 +17,7 @@
 
     <!-- Favicon and Touch Icons  -->
     <link rel="shortcut icon" href="assets/images/logo/Tittle_twn.png">
-    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/Favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/Tittle_twn.png">
 
 </head>
 
@@ -103,8 +103,8 @@
                                                 <li>
                                                     <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M9.62501 18.5744H2.70418C2.65555 18.5744 2.60892 18.5551 2.57454 18.5207C2.54016 18.4863 2.52084 18.4397 2.52084 18.3911V17.0619C2.52084 16.3002 3.06443 15.6292 3.90226 15.059C5.39826 14.0378 7.81918 13.3943 10.5417 13.3943C10.9908 13.3943 11.4318 13.4127 11.8626 13.4466C11.9537 13.4558 12.0457 13.4466 12.1332 13.4198C12.2207 13.3929 12.3019 13.3489 12.3722 13.2902C12.4424 13.2315 12.5003 13.1594 12.5423 13.0781C12.5843 12.9968 12.6097 12.9079 12.6169 12.8166C12.6241 12.7254 12.613 12.6336 12.5842 12.5467C12.5555 12.4598 12.5097 12.3795 12.4495 12.3105C12.3893 12.2416 12.316 12.1853 12.2338 12.1451C12.1516 12.1048 12.0621 12.0814 11.9708 12.0762C11.4954 12.038 11.0186 12.0191 10.5417 12.0193C7.49651 12.0193 4.80059 12.7811 3.12676 13.9223C1.84984 14.7932 1.14584 15.8996 1.14584 17.061V18.3911C1.14609 18.8042 1.31037 19.2003 1.60259 19.4924C1.89481 19.7844 2.29104 19.9485 2.70418 19.9485L9.62501 19.9494C9.80735 19.9494 9.98221 19.877 10.1111 19.748C10.2401 19.6191 10.3125 19.4443 10.3125 19.2619C10.3125 19.0796 10.2401 18.9047 10.1111 18.7758C9.98221 18.6468 9.80735 18.5744 9.62501 18.5744ZM10.5417 1.14583C7.75868 1.14583 5.50001 3.4045 5.50001 6.1875C5.50001 8.9705 7.75868 11.2292 10.5417 11.2292C13.3247 11.2292 15.5833 8.9705 15.5833 6.1875C15.5833 3.4045 13.3247 1.14583 10.5417 1.14583ZM10.5417 2.52083C12.5657 2.52083 14.2083 4.1635 14.2083 6.1875C14.2083 8.2115 12.5657 9.85416 10.5417 9.85416C8.51768 9.85416 6.87501 8.2115 6.87501 6.1875C6.87501 4.1635 8.51768 2.52083 10.5417 2.52083Z" fill="#1C1C1E"/>
-                                                        <path d="M16.6393 18.524C17.2592 18.618 17.8928 18.5515 18.4796 18.3311C19.0665 18.1106 19.5871 17.7434 19.9918 17.2646C20.3965 16.7858 20.6717 16.2112 20.7913 15.5958C20.9109 14.9804 20.8707 14.3446 20.6748 13.7491C20.4788 13.1536 20.1335 12.6182 19.6719 12.194C19.2102 11.7698 18.6476 11.471 18.0377 11.326C17.4277 11.1811 16.7908 11.1948 16.1877 11.3659C15.5846 11.537 15.0353 11.8598 14.5924 12.3035C14.186 12.7095 13.8807 13.2053 13.7013 13.751C13.5218 14.2967 13.4732 14.877 13.5593 15.4449L11.4308 17.5725C11.3669 17.6364 11.3161 17.7123 11.2815 17.7958C11.2469 17.8793 11.2291 17.9688 11.2292 18.0593V20.1667C11.2292 20.5462 11.5372 20.8542 11.9167 20.8542H14.0241C14.1145 20.8542 14.204 20.8364 14.2875 20.8018C14.3711 20.7672 14.4469 20.7165 14.5108 20.6525L16.6393 18.524ZM16.5917 17.1123C16.4753 17.0813 16.3528 17.0814 16.2365 17.1127C16.1202 17.1439 16.0141 17.2051 15.9289 17.2902L13.7399 19.4792H12.6042V18.3434L14.7932 16.1544C14.8782 16.0692 14.9395 15.9631 14.9707 15.8468C15.0019 15.7305 15.002 15.608 14.971 15.4917C14.8415 15.0042 14.8762 14.4878 15.0697 14.022C15.2632 13.5563 15.6046 13.1672 16.0413 12.915C16.478 12.6627 16.9857 12.5613 17.4858 12.6264C17.9859 12.6915 18.4506 12.9195 18.8082 13.2752C19.1638 13.6327 19.3918 14.0975 19.4569 14.5976C19.522 15.0977 19.4206 15.6053 19.1684 16.042C18.9161 16.4787 18.5271 16.8202 18.0613 17.0136C17.5956 17.2071 17.0791 17.2418 16.5917 17.1123Z" fill="#FFA920"/>
-                                                        <path d="M16.4835 15.5998C16.3877 15.5083 16.3111 15.3984 16.2583 15.2768C16.2055 15.1552 16.1775 15.0243 16.1761 14.8917C16.1746 14.7592 16.1996 14.6276 16.2497 14.5049C16.2998 14.3822 16.374 14.2707 16.4678 14.177C16.5616 14.0833 16.6732 14.0093 16.796 13.9594C16.9188 13.9095 17.0503 13.8846 17.1829 13.8862C17.3154 13.8879 17.4463 13.916 17.5679 13.9689C17.6894 14.0219 17.7991 14.0986 17.8906 14.1946C18.0698 14.3826 18.1683 14.6333 18.1651 14.893C18.1619 15.1527 18.0572 15.4009 17.8734 15.5845C17.6896 15.768 17.4413 15.8724 17.1816 15.8752C16.9219 15.8781 16.6713 15.7793 16.4835 15.5998Z" fill="#FFA920"/>
+                                                        <path d="M16.6393 18.524C17.2592 18.618 17.8928 18.5515 18.4796 18.3311C19.0665 18.1106 19.5871 17.7434 19.9918 17.2646C20.3965 16.7858 20.6717 16.2112 20.7913 15.5958C20.9109 14.9804 20.8707 14.3446 20.6748 13.7491C20.4788 13.1536 20.1335 12.6182 19.6719 12.194C19.2102 11.7698 18.6476 11.471 18.0377 11.326C17.4277 11.1811 16.7908 11.1948 16.1877 11.3659C15.5846 11.537 15.0353 11.8598 14.5924 12.3035C14.186 12.7095 13.8807 13.2053 13.7013 13.751C13.5218 14.2967 13.4732 14.877 13.5593 15.4449L11.4308 17.5725C11.3669 17.6364 11.3161 17.7123 11.2815 17.7958C11.2469 17.8793 11.2291 17.9688 11.2292 18.0593V20.1667C11.2292 20.5462 11.5372 20.8542 11.9167 20.8542H14.0241C14.1145 20.8542 14.204 20.8364 14.2875 20.8018C14.3711 20.7672 14.4469 20.7165 14.5108 20.6525L16.6393 18.524ZM16.5917 17.1123C16.4753 17.0813 16.3528 17.0814 16.2365 17.1127C16.1202 17.1439 16.0141 17.2051 15.9289 17.2902L13.7399 19.4792H12.6042V18.3434L14.7932 16.1544C14.8782 16.0692 14.9395 15.9631 14.9707 15.8468C15.0019 15.7305 15.002 15.608 14.971 15.4917C14.8415 15.0042 14.8762 14.4878 15.0697 14.022C15.2632 13.5563 15.6046 13.1672 16.0413 12.915C16.478 12.6627 16.9857 12.5613 17.4858 12.6264C17.9859 12.6915 18.4506 12.9195 18.8082 13.2752C19.1638 13.6327 19.3918 14.0975 19.4569 14.5976C19.522 15.0977 19.4206 15.6053 19.1684 16.042C18.9161 16.4787 18.5271 16.8202 18.0613 17.0136C17.5956 17.2071 17.0791 17.2418 16.5917 17.1123Z" fill="#60209D"/>
+                                                        <path d="M16.4835 15.5998C16.3877 15.5083 16.3111 15.3984 16.2583 15.2768C16.2055 15.1552 16.1775 15.0243 16.1761 14.8917C16.1746 14.7592 16.1996 14.6276 16.2497 14.5049C16.2998 14.3822 16.374 14.2707 16.4678 14.177C16.5616 14.0833 16.6732 14.0093 16.796 13.9594C16.9188 13.9095 17.0503 13.8846 17.1829 13.8862C17.3154 13.8879 17.4463 13.916 17.5679 13.9689C17.6894 14.0219 17.7991 14.0986 17.8906 14.1946C18.0698 14.3826 18.1683 14.6333 18.1651 14.893C18.1619 15.1527 18.0572 15.4009 17.8734 15.5845C17.6896 15.768 17.4413 15.8724 17.1816 15.8752C16.9219 15.8781 16.6713 15.7793 16.4835 15.5998Z" fill="#60209D"/>
                                                     </svg>
                                                 </li>
                                                 <li class=""><a href="#" data-toggle="modal" data-target="#popup_bid2">Register</a></li>
@@ -114,7 +114,7 @@
                                         </div>
                                     -->
                                         <div class="flat-bt-top sc-btn-top ">
-                                            <a class="sc-button btn-icon " href="properties-list.html">
+                                            <a class="sc-button btn-icon " href="{{ route('propertyGrid') }}">
                                                 <svg width="25" height="24" viewBox="0 0 25 24" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -143,9 +143,11 @@
                 <div class="mobile-menu">
                     <div class="menu-backdrop"></div>
                     <nav class="menu-box">
-                        <div class="nav-logo"><a href="index.html"><img src="assets/images/logo/logo@2x.png"
-                                    alt="" width="197" height="48"></a></div>
+                        <div class="nav-logo"><a href="{{ route('index') }}"><img
+                                    src="assets/images/logo/nav_ungu.png" alt="" width="197"
+                                    height="48"></a></div>
                         <div class="bottom-canvas">
+                            <!--
                             <div class="login-box flex align-center">
                                 <svg width="22" height="22" viewBox="0 0 22 22" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
@@ -154,17 +156,18 @@
                                         fill="#1C1C1E" />
                                     <path
                                         d="M16.6393 18.524C17.2592 18.618 17.8928 18.5515 18.4796 18.3311C19.0665 18.1106 19.5871 17.7434 19.9918 17.2646C20.3965 16.7858 20.6717 16.2112 20.7913 15.5958C20.9109 14.9804 20.8707 14.3446 20.6748 13.7491C20.4788 13.1536 20.1335 12.6182 19.6719 12.194C19.2102 11.7698 18.6476 11.471 18.0377 11.326C17.4277 11.1811 16.7908 11.1948 16.1877 11.3659C15.5846 11.537 15.0353 11.8598 14.5924 12.3035C14.186 12.7095 13.8807 13.2053 13.7013 13.751C13.5218 14.2967 13.4732 14.877 13.5593 15.4449L11.4308 17.5725C11.3669 17.6364 11.3161 17.7123 11.2815 17.7958C11.2469 17.8793 11.2291 17.9688 11.2292 18.0593V20.1667C11.2292 20.5462 11.5372 20.8542 11.9167 20.8542H14.0241C14.1145 20.8542 14.204 20.8364 14.2875 20.8018C14.3711 20.7672 14.4469 20.7165 14.5108 20.6525L16.6393 18.524ZM16.5917 17.1123C16.4753 17.0813 16.3528 17.0814 16.2365 17.1127C16.1202 17.1439 16.0141 17.2051 15.9289 17.2902L13.7399 19.4792H12.6042V18.3434L14.7932 16.1544C14.8782 16.0692 14.9395 15.9631 14.9707 15.8468C15.0019 15.7305 15.002 15.608 14.971 15.4917C14.8415 15.0042 14.8762 14.4878 15.0697 14.022C15.2632 13.5563 15.6046 13.1672 16.0413 12.915C16.478 12.6627 16.9857 12.5613 17.4858 12.6264C17.9859 12.6915 18.4506 12.9195 18.8082 13.2752C19.1638 13.6327 19.3918 14.0975 19.4569 14.5976C19.522 15.0977 19.4206 15.6053 19.1684 16.042C18.9161 16.4787 18.5271 16.8202 18.0613 17.0136C17.5956 17.2071 17.0791 17.2418 16.5917 17.1123Z"
-                                        fill="#FFA920" />
+                                        fill="#60209D" />
                                     <path
                                         d="M16.4835 15.5998C16.3877 15.5083 16.3111 15.3984 16.2583 15.2768C16.2055 15.1552 16.1775 15.0243 16.1761 14.8917C16.1746 14.7592 16.1996 14.6276 16.2497 14.5049C16.2998 14.3822 16.374 14.2707 16.4678 14.177C16.5616 14.0833 16.6732 14.0093 16.796 13.9594C16.9188 13.9095 17.0503 13.8846 17.1829 13.8862C17.3154 13.8879 17.4463 13.916 17.5679 13.9689C17.6894 14.0219 17.7991 14.0986 17.8906 14.1946C18.0698 14.3826 18.1683 14.6333 18.1651 14.893C18.1619 15.1527 18.0572 15.4009 17.8734 15.5845C17.6896 15.768 17.4413 15.8724 17.1816 15.8752C16.9219 15.8781 16.6713 15.7793 16.4835 15.5998Z"
-                                        fill="#FFA920" />
+                                        fill="#60209D" />
                                 </svg>
                                 <a href="#" data-toggle="modal" data-target="#popup_bid"
                                     class="fw-7 font-2">Login</a>
                             </div>
+                        -->
                             <div class="menu-outer"></div>
                             <div class="button-mobi-sell">
-                                <a class="sc-button btn-icon center" href="properties-list.html">
+                                <a class="sc-button btn-icon center" href="{{ route('propertyGrid') }}">
                                     <svg width="25" height="24" viewBox="0 0 25 24" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
@@ -346,7 +349,7 @@
                                                                         xmlns="http://www.w3.org/2000/svg">
                                                                         <path
                                                                             d="M3 10.5V0.75M3 10.5C3.39782 10.5 3.77936 10.658 4.06066 10.9393C4.34196 11.2206 4.5 11.6022 4.5 12C4.5 12.3978 4.34196 12.7794 4.06066 13.0607C3.77936 13.342 3.39782 13.5 3 13.5M3 10.5C2.60218 10.5 2.22064 10.658 1.93934 10.9393C1.65804 11.2206 1.5 11.6022 1.5 12C1.5 12.3978 1.65804 12.7794 1.93934 13.0607C2.22064 13.342 2.60218 13.5 3 13.5M3 17.25V13.5M15 10.5V0.75M15 10.5C15.3978 10.5 15.7794 10.658 16.0607 10.9393C16.342 11.2206 16.5 11.6022 16.5 12C16.5 12.3978 16.342 12.7794 16.0607 13.0607C15.7794 13.342 15.3978 13.5 15 13.5M15 10.5C14.6022 10.5 14.2206 10.658 13.9393 10.9393C13.658 11.2206 13.5 11.6022 13.5 12C13.5 12.3978 13.658 12.7794 13.9393 13.0607C14.2206 13.342 14.6022 13.5 15 13.5M15 17.25V13.5M9 4.5V0.75M9 4.5C9.39782 4.5 9.77936 4.65804 10.0607 4.93934C10.342 5.22064 10.5 5.60218 10.5 6C10.5 6.39782 10.342 6.77936 10.0607 7.06066C9.77936 7.34196 9.39782 7.5 9 7.5M9 4.5C8.60218 4.5 8.22064 4.65804 7.93934 4.93934C7.65804 5.22064 7.5 5.60218 7.5 6C7.5 6.39782 7.65804 6.77936 7.93934 7.06066C8.22064 7.34196 8.60218 7.5 9 7.5M9 17.25V7.5"
-                                                                            stroke="#FFA920" stroke-width="1.5"
+                                                                            stroke="#60209D" stroke-width="1.5"
                                                                             stroke-linecap="round"
                                                                             stroke-linejoin="round" />
                                                                     </svg>
@@ -644,6 +647,7 @@
                 </div>
             </section>
         -->
+            <!--
             <section class="flat-service tf-section">
                 <div class="container">
                     <div class="row">
@@ -661,7 +665,7 @@
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M32.8125 10.9375C34.4701 10.9375 36.0598 11.596 37.2319 12.7681C38.404 13.9402 39.0625 15.5299 39.0625 17.1875M45.3125 17.1875C45.3128 19.0106 44.9142 20.8118 44.1448 22.4646C43.3754 24.1175 42.2537 25.582 40.8585 26.7555C39.4632 27.9291 37.8282 28.7832 36.0679 29.258C34.3077 29.7328 32.4649 29.8168 30.6687 29.5041C29.4958 29.3021 28.2542 29.5583 27.4125 30.4L21.875 35.9375H17.1875V40.625H12.5V45.3125H4.6875V39.4416C4.6875 38.1979 5.18125 37.0041 6.06042 36.1271L19.6 22.5875C20.4417 21.7458 20.6979 20.5041 20.4958 19.3312C20.2004 17.6253 20.2626 15.8766 20.6784 14.196C21.0942 12.5154 21.8546 10.9395 22.9114 9.56815C23.9682 8.19681 25.2983 7.05996 26.8175 6.22963C28.3367 5.39931 30.0118 4.89362 31.7367 4.74462C33.4616 4.59562 35.1986 4.80656 36.8377 5.36406C38.4768 5.92156 39.9822 6.81347 41.2585 7.98327C42.5348 9.15307 43.5542 10.5752 44.252 12.1597C44.9499 13.7441 45.311 15.4562 45.3125 17.1875Z"
-                                            stroke="#FFA920" stroke-width="2" stroke-linecap="round"
+                                            stroke="#60209D" stroke-width="2" stroke-linecap="round"
                                             stroke-linejoin="round" />
                                     </svg>
                                 </div>
@@ -677,7 +681,7 @@
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M17.1875 43.75V33.5937C17.1875 32.3 18.2375 31.25 19.5312 31.25H24.2187C25.5125 31.25 26.5625 32.3 26.5625 33.5937V43.75M26.5625 43.75H35.9375V7.38542M26.5625 43.75H42.1875V22.3958M35.9375 7.38542L39.0625 6.25M35.9375 7.38542L14.0625 15.3417M42.1875 22.3958L35.9375 20.3125M42.1875 22.3958L45.3125 23.4375M4.6875 43.75H7.8125M7.8125 43.75H45.3125M7.8125 43.75V6.25H14.0625V15.3417M4.6875 18.75L14.0625 15.3417"
-                                            stroke="#FFA920" stroke-width="2" stroke-linecap="round"
+                                            stroke="#60209D" stroke-width="2" stroke-linecap="round"
                                             stroke-linejoin="round" />
                                     </svg>
                                 </div>
@@ -693,7 +697,7 @@
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M25.001 37.4999V26.5624M25.001 26.5624C26.0551 26.5633 27.1051 26.431 28.126 26.1687M25.001 26.5624C23.947 26.5633 22.897 26.431 21.876 26.1687M29.6885 41.7479C26.5912 42.336 23.4109 42.336 20.3135 41.7479M28.126 46.7124C26.0484 46.93 23.9537 46.93 21.876 46.7124M29.6885 37.4999V37.0999C29.6885 35.052 31.0594 33.302 32.8302 32.2749C35.8052 30.5521 38.129 27.8962 39.4415 24.7188C40.754 21.5413 40.9819 18.0197 40.0899 14.6996C39.198 11.3795 37.236 8.44622 34.5078 6.35428C31.7797 4.26235 28.4379 3.12854 25 3.12854C21.5622 3.12854 18.2203 4.26235 15.4922 6.35428C12.7641 8.44622 10.802 11.3795 9.91006 14.6996C9.01811 18.0197 9.24604 21.5413 10.5585 24.7188C11.871 27.8962 14.1948 30.5521 17.1698 32.2749C18.9406 33.302 20.3135 35.052 20.3135 37.0999V37.4999"
-                                            stroke="#FFA920" stroke-width="2" stroke-linecap="round"
+                                            stroke="#60209D" stroke-width="2" stroke-linecap="round"
                                             stroke-linejoin="round" />
                                     </svg>
                                 </div>
@@ -705,7 +709,8 @@
                     </div>
                 </div>
             </section>
-
+        -->
+            <br>
             <section class="flat-featured wg-dream home">
                 <div class="container3">
                     <div class="row">
@@ -748,7 +753,7 @@
                                                     <span class="featured fs-12 fw-6">Featured</span>
                                                     <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                                         <div class="swiper-wrapper ">
                                                             <div class="swiper-slide"><img
@@ -778,13 +783,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -811,7 +816,7 @@
                                                     <span class="featured style fs-12 fw-6">For sale</span>
                                                     <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                                         <div class="swiper-wrapper ">
                                                             <div class="swiper-slide"><img
@@ -841,13 +846,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -872,7 +877,7 @@
                                                 <div class="image-group relative ">
                                                     <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                                         <div class="swiper-wrapper ">
                                                             <div class="swiper-slide"><img
@@ -902,13 +907,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -935,7 +940,7 @@
                                                     <span class="featured style fs-12 fw-6">For sale</span>
                                                     <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                                         <div class="swiper-wrapper ">
                                                             <div class="swiper-slide"><img
@@ -965,13 +970,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -998,7 +1003,7 @@
                                                     <span class="featured style fs-12 fw-6">For sale</span>
                                                     <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                                         <div class="swiper-wrapper ">
                                                             <div class="swiper-slide"><img
@@ -1028,13 +1033,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1060,7 +1065,7 @@
                                                     <span class="featured fs-12 fw-6">Featured</span>
                                                     <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                                         <div class="swiper-wrapper ">
                                                             <div class="swiper-slide"><img
@@ -1090,13 +1095,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1123,7 +1128,7 @@
                                                     <span class="featured style fs-12 fw-6">For sale</span>
                                                     <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                                         <div class="swiper-wrapper ">
                                                             <div class="swiper-slide"><img
@@ -1153,13 +1158,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1184,7 +1189,7 @@
                                                 <div class="image-group relative ">
                                                     <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                                         <div class="swiper-wrapper ">
                                                             <div class="swiper-slide"><img
@@ -1214,13 +1219,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1254,7 +1259,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1285,13 +1290,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1318,7 +1323,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1349,13 +1354,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1383,7 +1388,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1414,13 +1419,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1446,7 +1451,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1477,13 +1482,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1514,7 +1519,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1545,13 +1550,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1579,7 +1584,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1610,13 +1615,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1642,7 +1647,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1673,13 +1678,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1707,7 +1712,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1738,13 +1743,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1775,7 +1780,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1806,13 +1811,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1840,7 +1845,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1871,13 +1876,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1905,7 +1910,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1936,13 +1941,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -1968,7 +1973,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -1999,13 +2004,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2037,7 +2042,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -2068,13 +2073,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2101,7 +2106,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -2132,13 +2137,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2166,7 +2171,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -2197,13 +2202,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2229,7 +2234,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -2260,13 +2265,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2296,7 +2301,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -2327,13 +2332,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2361,7 +2366,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -2392,13 +2397,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2426,7 +2431,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -2457,13 +2462,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2490,7 +2495,7 @@
                                                     <span class="icon-bookmark"><i
                                                             class="far fa-bookmark"></i></span>
                                                     <div class="swiper-container  carousel-2 img-style">
-                                                        <a href="property-detail-v1.html" class="icon-plus"><img
+                                                        <a href="{{ route('property') }}" class="icon-plus"><img
                                                                 src="assets/images/icon/plus.svg"
                                                                 alt="images"></a>
                                                         <div class="swiper-wrapper ">
@@ -2521,13 +2526,13 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="link-style-1"><a
-                                                            href="property-detail-v1.html">Gorgeous Apartment
+                                                            href="{{ route('property') }}">Gorgeous Apartment
                                                             Building</a> </h3>
                                                     <div class="text-address">
                                                         <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                     </div>
                                                     <div class="money fs-18 fw-6 text-color-3"><a
-                                                            href="property-detail-v1.html">$7,500</a></div>
+                                                            href="{{ route('property') }}">$7,500</a></div>
                                                     <div class="icon-box flex">
                                                         <div class="icons icon-1 flex"><span>Beds: </span><span
                                                                 class="fw-6">4</span></div>
@@ -2570,11 +2575,12 @@
                                     <div class="images">
                                         <img class="imgs" src="assets/images/img-box/search-area-1.jpg"
                                             alt="images">
-                                        <a href="properties-map-v1.html" class="icon-plus"><img
+                                        <a href="{{ route('propertyMap') }}" class="icon-plus"><img
                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                     </div>
                                     <div class="content">
-                                        <h3 class="link-style-3"><a href="properties-map-v1.html">California</a>
+                                        <h3 class="link-style-3"><a
+                                                href="{{ route('propertyMap') }}">California</a>
                                         </h3>
                                         <p class="text-color-1">1570 listing</p>
                                     </div>
@@ -2583,11 +2589,12 @@
                                     <div class="images">
                                         <img class="imgs" src="assets/images/img-box/search-area-2.jpg"
                                             alt="images">
-                                        <a href="properties-map-v1.html" class="icon-plus"><img
+                                        <a href="{{ route('propertyMap') }}" class="icon-plus"><img
                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                     </div>
                                     <div class="content">
-                                        <h3 class="link-style-3"><a href="properties-map-v1.html">California</a>
+                                        <h3 class="link-style-3"><a
+                                                href="{{ route('propertyMap') }}">California</a>
                                         </h3>
                                         <p class="text-color-1">1570 listing</p>
                                     </div>
@@ -2596,11 +2603,12 @@
                                     <div class="images">
                                         <img class="imgs" src="assets/images/img-box/search-area-3.jpg"
                                             alt="images">
-                                        <a href="properties-map-v1.html" class="icon-plus"><img
+                                        <a href="{{ route('propertyMap') }}" class="icon-plus"><img
                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                     </div>
                                     <div class="content">
-                                        <h3 class="link-style-3"><a href="properties-map-v1.html">California</a>
+                                        <h3 class="link-style-3"><a
+                                                href="{{ route('propertyMap') }}">California</a>
                                         </h3>
                                         <p class="text-color-1">1570 listing</p>
                                     </div>
@@ -2609,11 +2617,12 @@
                                     <div class="images">
                                         <img class="imgs" src="assets/images/img-box/search-area-4.jpg"
                                             alt="images">
-                                        <a href="properties-map-v1.html" class="icon-plus"><img
+                                        <a href="{{ route('propertyMap') }}" class="icon-plus"><img
                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                     </div>
                                     <div class="content">
-                                        <h3 class="link-style-3"><a href="properties-map-v1.html">California</a>
+                                        <h3 class="link-style-3"><a
+                                                href="{{ route('propertyMap') }}">California</a>
                                         </h3>
                                         <p class="text-color-1">1570 listing</p>
                                     </div>
@@ -2622,11 +2631,12 @@
                                     <div class="images">
                                         <img class="imgs" src="assets/images/img-box/search-area-5.jpg"
                                             alt="images">
-                                        <a href="properties-map-v1.html" class="icon-plus"><img
+                                        <a href="{{ route('propertyMap') }}" class="icon-plus"><img
                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                     </div>
                                     <div class="content">
-                                        <h3 class="link-style-3"><a href="properties-map-v1.html">California</a>
+                                        <h3 class="link-style-3"><a
+                                                href="{{ route('propertyMap') }}">California</a>
                                         </h3>
                                         <p class="text-color-1">1570 listing</p>
                                     </div>
@@ -2635,11 +2645,12 @@
                                     <div class="images">
                                         <img class="imgs" src="assets/images/img-box/search-area-6.jpg"
                                             alt="images">
-                                        <a href="properties-map-v1.html" class="icon-plus"><img
+                                        <a href="{{ route('propertyMap') }}" class="icon-plus"><img
                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                     </div>
                                     <div class="content">
-                                        <h3 class="link-style-3"><a href="properties-map-v1.html">California</a>
+                                        <h3 class="link-style-3"><a
+                                                href="{{ route('propertyMap') }}">California</a>
                                         </h3>
                                         <p class="text-color-1">1570 listing</p>
                                     </div>
@@ -2648,11 +2659,12 @@
                                     <div class="images">
                                         <img class="imgs" src="assets/images/img-box/search-area-7.jpg"
                                             alt="images">
-                                        <a href="properties-map-v1.html" class="icon-plus"><img
+                                        <a href="{{ route('propertyMap') }}" class="icon-plus"><img
                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                     </div>
                                     <div class="content">
-                                        <h3 class="link-style-3"><a href="properties-map-v1.html">California</a>
+                                        <h3 class="link-style-3"><a
+                                                href="{{ route('propertyMap') }}">California</a>
                                         </h3>
                                         <p class="text-color-1">1570 listing</p>
                                     </div>
@@ -2661,11 +2673,12 @@
                                     <div class="images">
                                         <img class="imgs" src="assets/images/img-box/search-area-8.jpg"
                                             alt="images">
-                                        <a href="properties-map-v1.html" class="icon-plus"><img
+                                        <a href="{{ route('propertyMap') }}" class="icon-plus"><img
                                                 src="assets/images/icon/plus.svg" alt="images"></a>
                                     </div>
                                     <div class="content">
-                                        <h3 class="link-style-3"><a href="properties-map-v1.html">California</a>
+                                        <h3 class="link-style-3"><a
+                                                href="{{ route('propertyMap') }}">California</a>
                                         </h3>
                                         <p class="text-color-1">1570 listing</p>
                                     </div>
@@ -2695,7 +2708,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -2724,13 +2737,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex text-color-4"><span>Beds:
                                                         </span><span class="fw-6">4</span></div>
@@ -2758,7 +2772,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -2787,13 +2801,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex text-color-4"><span>Beds:
                                                         </span><span class="fw-6">4</span></div>
@@ -2821,7 +2836,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -2850,13 +2865,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex text-color-4"><span>Beds:
                                                         </span><span class="fw-6">4</span></div>
@@ -2884,7 +2900,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -2913,13 +2929,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex text-color-4"><span>Beds:
                                                         </span><span class="fw-6">4</span></div>
@@ -2947,7 +2964,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -2976,13 +2993,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex text-color-4"><span>Beds:
                                                         </span><span class="fw-6">4</span></div>
@@ -3010,7 +3028,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3039,13 +3057,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex text-color-4"><span>Beds:
                                                         </span><span class="fw-6">4</span></div>
@@ -3073,7 +3092,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3102,13 +3121,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex text-color-4"><span>Beds:
                                                         </span><span class="fw-6">4</span></div>
@@ -3153,7 +3173,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3182,13 +3202,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3216,7 +3237,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3245,13 +3266,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3279,7 +3301,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3308,13 +3330,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3342,7 +3365,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3371,13 +3394,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3405,7 +3429,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3434,13 +3458,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3467,7 +3492,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3496,13 +3521,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3529,7 +3555,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3558,13 +3584,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3591,7 +3618,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3620,13 +3647,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3654,7 +3682,7 @@
                                                 <span class="featured style fs-12 fw-6">For sale</span>
                                                 <span class="icon-bookmark"><i class="far fa-bookmark"></i></span>
                                                 <div class="swiper-container  carousel-2 img-style">
-                                                    <a href="property-detail-v1.html" class="icon-plus"><img
+                                                    <a href="{{ route('property') }}" class="icon-plus"><img
                                                             src="assets/images/icon/plus.svg" alt="images"></a>
                                                     <div class="swiper-wrapper ">
                                                         <div class="swiper-slide"><img
@@ -3683,13 +3711,14 @@
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h3 class="link-style-1"><a href="property-detail-v1.html">Gorgeous
+                                                <h3 class="link-style-1"><a
+                                                        href="{{ route('property') }}">Gorgeous
                                                         Apartment Building</a> </h3>
                                                 <div class="text-address">
                                                     <p class="p-12">58 Hullbrook Road, Billesley, B13 0LA</p>
                                                 </div>
                                                 <div class="money fs-18 fw-6 text-color-3"><a
-                                                        href="property-detail-v1.html">$7,500</a></div>
+                                                        href="{{ route('property') }}">$7,500</a></div>
                                                 <div class="icon-box flex">
                                                     <div class="icons icon-1 flex"><span>Beds: </span><span
                                                             class="fw-6">4</span></div>
@@ -3730,8 +3759,8 @@
                         <div class="col-lg-4 col-md-4">
                             <div class="box hover-img">
                                 <div class="images relative img-style">
-                                    <a href="agents-detail.html"><img src="assets/images/img-box/meet-1.jpg"
-                                            alt="images"></a>
+                                    <a href="{{ route('agentsDetail') }}"><img
+                                            src="assets/images/img-box/meet-1.jpg" alt="images"></a>
                                     <div class="icon-socials">
                                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                                         <a href="#"><i class="fab fa-twitter"></i></a>
@@ -3741,7 +3770,8 @@
                                 </div>
                                 <div class="content flex justify-space">
                                     <div class="inner">
-                                        <h3 class="link-style-1"><a href="agents-detail.html">Wade Warren</a></h3>
+                                        <h3 class="link-style-1"><a href="{{ route('agentsDetail') }}">Wade
+                                                Warren</a></h3>
                                         <p class="fs-12 text-color-2">Salesperson</p>
                                     </div>
                                     <div class="icon-box flex">
@@ -3754,8 +3784,8 @@
                         <div class="col-lg-4 col-md-4">
                             <div class="box hover-img">
                                 <div class="images relative img-style">
-                                    <a href="agents-detail.html"><img src="assets/images/img-box/meet-2.jpg"
-                                            alt="images"></a>
+                                    <a href="{{ route('agentsDetail') }}"><img
+                                            src="assets/images/img-box/meet-2.jpg" alt="images"></a>
                                     <div class="icon-socials">
                                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                                         <a href="#"><i class="fab fa-twitter"></i></a>
@@ -3765,7 +3795,8 @@
                                 </div>
                                 <div class="content flex justify-space">
                                     <div class="inner">
-                                        <h3 class="link-style-1"><a href="agents-detail.html">Leslie Alexander</a>
+                                        <h3 class="link-style-1"><a href="{{ route('agentsDetail') }}">Leslie
+                                                Alexander</a>
                                         </h3>
                                         <p class="fs-12 text-color-2">Commercial Broker</p>
                                     </div>
@@ -3779,8 +3810,8 @@
                         <div class="col-lg-4 col-md-4">
                             <div class="box hover-img">
                                 <div class="images relative img-style">
-                                    <a href="agents-detail.html"><img src="assets/images/img-box/meet-3.jpg"
-                                            alt="images"></a>
+                                    <a href="{{ route('agentsDetail') }}"><img
+                                            src="assets/images/img-box/meet-3.jpg" alt="images"></a>
                                     <div class="icon-socials">
                                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                                         <a href="#"><i class="fab fa-twitter"></i></a>
@@ -3790,7 +3821,8 @@
                                 </div>
                                 <div class="content flex justify-space">
                                     <div class="inner">
-                                        <h3 class="link-style-1"><a href="agents-detail.html">Darlene Robertson</a>
+                                        <h3 class="link-style-1"><a href="{{ route('agentsDetail') }}">Darlene
+                                                Robertson</a>
                                         </h3>
                                         <p class="fs-12 text-color-2">Realtor</p>
                                     </div>
@@ -3803,8 +3835,8 @@
                         </div>
                         <div class="col-lg-12">
                             <div class="box-text flex justify-center">
-                                <p>Become an agent and get the commission you deserve. </p> <a href="contact.html"
-                                    class="text-color-3 font-2 fw-7"> Contact us</a>
+                                <p>Become an agent and get the commission you deserve. </p> <a
+                                    href="{{ route('contact') }}" class="text-color-3 font-2 fw-7"> Contact us</a>
                             </div>
                         </div>
                     </div>
@@ -3827,13 +3859,13 @@
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
                                                 d="M42.5742 38.0897L42.7 38.0394V37.904V23.749C42.7 23.1695 43.1704 22.699 43.75 22.699C44.3295 22.699 44.8 23.1695 44.8 23.749V38.749C44.8 39.179 44.5378 39.5638 44.1424 39.7261C44.1421 39.7262 44.1419 39.7263 44.1417 39.7264L31.6657 44.7158L31.7375 44.8952C31.7375 44.8974 31.7375 44.8994 31.7375 44.9015L31.6563 44.7187L31.6371 44.7272C31.3894 44.8262 31.113 44.8262 30.8654 44.7272L30.8462 44.7187L30.8074 44.7015H30.801L18.8243 39.9108L18.75 39.8811L18.6757 39.9108L6.64074 44.7233L6.64072 44.7233C6.5143 44.7739 6.382 44.799 6.25 44.799C6.04199 44.799 5.83872 44.7382 5.66233 44.6185C5.37414 44.4229 5.2 44.0971 5.2 43.749V21.249C5.2 20.8188 5.46227 20.4344 5.85956 20.2746C5.85958 20.2746 5.8596 20.2746 5.85962 20.2746L18.3281 15.2857L18.3282 15.2863L18.3507 15.2788L18.3509 15.2791L18.3623 15.2745C18.6118 15.1739 18.8907 15.1739 19.1402 15.2745L19.1401 15.2746L19.1448 15.2763L19.1648 15.2838L19.1987 15.2965H19.1989L26.6456 18.2772C26.6456 18.2772 26.6456 18.2772 26.6457 18.2772C27.1862 18.4939 27.4479 19.1052 27.2319 19.6419L27.2318 19.6421C27.0154 20.182 26.3971 20.4421 25.8673 20.2285L25.8668 20.2283L20.0743 17.9108L19.8 17.8011V18.0965V37.9015V38.0369L19.9257 38.0872L29.9257 42.0872L30.2 42.1969V41.9015V28.749C30.2 28.1695 30.6704 27.699 31.25 27.699C31.8295 27.699 32.3 28.1695 32.3 28.749V41.904V42.1994L32.5742 42.0897L42.5742 38.0897ZM18.2775 15.134L18.265 15.1028L18.265 15.1028L18.265 15.0965L18.2775 15.134ZM17.5743 38.0872L17.7 38.0369V37.9015V18.094V17.7986L17.4257 17.9083L7.42572 21.9083L7.3 21.9586V22.094V41.9015V42.1969L7.57428 42.0872L17.5743 38.0872Z"
-                                                fill="#8E8E93" stroke="white" stroke-width="0.4" />
+                                                fill="#60209D" stroke="white" stroke-width="0.4" />
                                             <path
                                                 d="M32.6999 13.749C32.6999 11.792 34.2928 10.199 36.2499 10.199C38.2069 10.199 39.7999 11.792 39.7999 13.749C39.7999 15.7061 38.2069 17.299 36.2499 17.299C34.2928 17.299 32.6999 15.7061 32.6999 13.749ZM34.7999 13.749C34.7999 14.5495 35.4494 15.199 36.2499 15.199C37.0503 15.199 37.6999 14.5495 37.6999 13.749C37.6999 12.9486 37.0503 12.299 36.2499 12.299C35.4494 12.299 34.7999 12.9486 34.7999 13.749Z"
-                                                fill="#8E8E93" stroke="white" stroke-width="0.4" />
+                                                fill="#60209D" stroke="white" stroke-width="0.4" />
                                             <path
                                                 d="M36.0971 24.4704L36.25 24.6518L36.4029 24.4704C37.7722 22.8466 39.3407 20.7865 40.5681 18.831C41.1818 17.8533 41.7126 16.8981 42.0906 16.0341C42.4666 15.1746 42.7 14.3865 42.7 13.749C42.7 10.1936 39.8054 7.29902 36.25 7.29902C32.6945 7.29902 29.8 10.1936 29.8 13.749C29.8 14.3871 30.0334 15.1755 30.4094 16.0351C30.7874 16.8993 31.3182 17.8544 31.9319 18.8319C33.1593 20.7872 34.7278 22.8466 36.0971 24.4704ZM27.7 13.749C27.7 9.03448 31.5355 5.19902 36.25 5.19902C40.9645 5.19902 44.8 9.03448 44.8 13.749C44.8 14.8262 44.3769 16.1323 43.7105 17.5145C43.0462 18.8922 42.1501 20.3255 41.2259 21.6512C39.3782 24.3016 37.43 26.5055 37.0314 26.9501C36.8312 27.1712 36.5474 27.299 36.25 27.299C35.9526 27.299 35.6688 27.1712 35.4686 26.9501C35.0699 26.5053 33.1217 24.3015 31.2741 21.6512C30.3499 20.3255 29.4538 18.8922 28.7895 17.5145C28.1231 16.1323 27.7 14.8262 27.7 13.749Z"
-                                                fill="#8E8E93" stroke="white" stroke-width="0.4" />
+                                                fill="#60209D" stroke="white" stroke-width="0.4" />
                                         </svg>
                                     </div>
                                     <div class="content">
@@ -3847,20 +3879,20 @@
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
                                                 d="M26.4648 13.7812C26.4648 14.5902 27.1207 15.2461 27.9297 15.2461C28.7387 15.2461 29.3945 14.5902 29.3945 13.7812C29.3945 12.9723 28.7387 12.3164 27.9297 12.3164C27.1207 12.3164 26.4648 12.9723 26.4648 13.7812Z"
-                                                fill="#8E8E93" />
+                                                fill="#60209D" />
                                             <path
                                                 d="M32.3242 13.7812C32.3242 14.5902 32.9801 15.2461 33.7891 15.2461C34.598 15.2461 35.2539 14.5902 35.2539 13.7812C35.2539 12.9723 34.598 12.3164 33.7891 12.3164C32.9801 12.3164 32.3242 12.9723 32.3242 13.7812Z"
-                                                fill="#8E8E93" />
+                                                fill="#60209D" />
                                             <path
                                                 d="M38.1836 13.7812C38.1836 14.5902 38.8395 15.2461 39.6484 15.2461C40.4574 15.2461 41.1133 14.5902 41.1133 13.7812C41.1133 12.9723 40.4574 12.3164 39.6484 12.3164C38.8395 12.3164 38.1836 12.9723 38.1836 13.7812Z"
-                                                fill="#8E8E93" />
+                                                fill="#60209D" />
                                             <path
                                                 d="M22.6771 37.2188L27.0716 34.2891L35.8398 37.2188V43.0781C35.8398 44.6961 34.549 46.0078 32.931 46.0078C16.7508 46.0078 1.46484 30.8195 1.46484 14.6394C1.46484 13.0214 2.77656 11.7305 4.39453 11.7305H10.2539L13.1836 20.4987L10.2539 24.8933C12.1247 29.5703 18 35.3479 22.6771 37.2188Z"
-                                                stroke="#8E8E93" stroke-width="1.7" stroke-miterlimit="10"
+                                                stroke="#60209D" stroke-width="1.7" stroke-miterlimit="10"
                                                 stroke-linecap="round" stroke-linejoin="round" />
                                             <path
                                                 d="M19.1406 13.7812C19.1406 18.6354 23.0756 22.5703 27.9297 22.5703V28.4297L33.7891 22.5703H39.6484C44.5025 22.5703 48.5352 18.6354 48.5352 13.7812C48.5352 8.92715 44.5025 4.99219 39.6484 4.99219H27.9297C23.0756 4.99219 19.1406 8.92715 19.1406 13.7812Z"
-                                                stroke="#8E8E93" stroke-width="1.7" stroke-miterlimit="10"
+                                                stroke="#60209D" stroke-width="1.7" stroke-miterlimit="10"
                                                 stroke-linecap="round" stroke-linejoin="round" />
                                         </svg>
                                     </div>
@@ -3878,28 +3910,28 @@
                                             <g clip-path="url(#clip0_1505_28697)">
                                                 <path
                                                     d="M36.6559 17.8341L36.6559 17.8341L36.6609 17.8392C36.8315 18.0113 37.0549 18.0969 37.2788 18.0969C37.5021 18.0969 37.7258 18.0116 37.8976 17.8411C38.2409 17.5005 38.241 16.9425 37.8996 16.5985C37.5586 16.2548 37.0037 16.2526 36.66 16.5934L36.6559 17.8341ZM36.6559 17.8341L36.6551 17.8332M36.6559 17.8341L36.6551 17.8332M36.6551 17.8332C36.3141 17.4895 36.3163 16.9345 36.66 16.5935L36.6551 17.8332Z"
-                                                    fill="#8E8E93" stroke="white" stroke-width="0.2" />
+                                                    fill="#60209D" stroke="white" stroke-width="0.2" />
                                                 <path
                                                     d="M46.4639 27.8825H46.7054L46.5346 27.7118L39.3343 20.5115C38.992 20.1691 38.992 19.6141 39.3343 19.2718C39.6767 18.9296 40.2317 18.9296 40.574 19.2718L49.6441 28.3419C49.8085 28.5063 49.9009 28.7294 49.901 28.9618C49.901 29.1943 49.8086 29.4172 49.6442 29.5816L34.0757 45.1502C33.9114 45.3145 33.6884 45.4069 33.4559 45.4069C33.2235 45.4069 33.0005 45.3145 32.8361 45.1502L9.34306 21.6572C9.34306 21.6572 9.34305 21.6572 9.34305 21.6572C9.00075 21.3148 9.00076 20.7598 9.34305 20.4175L24.9114 4.84884C25.2537 4.50664 25.8087 4.50664 26.151 4.84884C26.151 4.84884 26.151 4.84884 26.1511 4.84884L34.9723 13.67C35.3146 14.0124 35.3146 14.5675 34.9723 14.9098C34.6299 15.252 34.0749 15.2519 33.7326 14.9098L26.7811 7.95839L26.6104 7.78768V8.0291V25.1994C26.6104 26.679 27.8139 27.8825 29.2935 27.8825H46.4639ZM24.8575 7.62373V7.38231L24.6868 7.55302L12.2497 19.9901L12.079 20.1608H12.3204H24.7575H24.8575V20.0608V7.62373ZM32.4087 42.2434L32.5794 42.4141V42.1727V29.7356V29.6356H32.4794H29.2937C26.8477 29.6356 24.8575 27.6455 24.8575 25.1994V22.0139V21.9139H24.7575H12.3204H12.079L12.2497 22.0846L32.4087 42.2434ZM34.3324 42.1728V42.4142L34.5031 42.2435L46.9401 29.8064L47.1108 29.6356H46.8694H34.4324H34.3324V29.7356V42.1728Z"
-                                                    fill="#8E8E93" stroke="white" stroke-width="0.2" />
+                                                    fill="#60209D" stroke="white" stroke-width="0.2" />
                                                 <path
                                                     d="M0.976562 24.9047H6.70225C7.18637 24.9047 7.57881 25.2972 7.57881 25.7812C7.57881 26.2654 7.18637 26.6578 6.70225 26.6578H0.976562C0.492442 26.6578 0.1 26.2653 0.1 25.7812C0.1 25.2972 0.492442 24.9047 0.976562 24.9047Z"
-                                                    fill="#8E8E93" stroke="white" stroke-width="0.2" />
+                                                    fill="#60209D" stroke="white" stroke-width="0.2" />
                                                 <path
                                                     d="M9.59961 24.9047H9.61426C10.0984 24.9047 10.4908 25.2972 10.4908 25.7812C10.4908 26.2653 10.0984 26.6578 9.61426 26.6578H9.59961C9.11549 26.6578 8.72305 26.2653 8.72305 25.7812C8.72305 25.2972 9.11549 24.9047 9.59961 24.9047Z"
-                                                    fill="#8E8E93" stroke="white" stroke-width="0.2" />
+                                                    fill="#60209D" stroke="white" stroke-width="0.2" />
                                                 <path
                                                     d="M0.978516 14.6508H4.10381C4.58793 14.6508 4.98037 15.0433 4.98037 15.5273C4.98037 16.0114 4.58793 16.4039 4.10381 16.4039H0.978516C0.494395 16.4039 0.101953 16.0114 0.101953 15.5273C0.101953 15.0433 0.494395 14.6508 0.978516 14.6508Z"
-                                                    fill="#8E8E93" stroke="white" stroke-width="0.2" />
+                                                    fill="#60209D" stroke="white" stroke-width="0.2" />
                                                 <path
                                                     d="M7.29315 14.6508H10.9873C11.4714 14.6508 11.8639 15.0433 11.8639 15.5273C11.8639 16.0114 11.4714 16.4039 10.9873 16.4039H7.29315C6.80903 16.4039 6.41659 16.0114 6.41659 15.5273C6.41659 15.0433 6.80903 14.6508 7.29315 14.6508Z"
-                                                    fill="#8E8E93" stroke="white" stroke-width="0.2" />
+                                                    fill="#60209D" stroke="white" stroke-width="0.2" />
                                                 <path
                                                     d="M7.64453 30.2758H13.1132C13.5972 30.2758 13.9897 30.6683 13.9897 31.1523C13.9897 31.6364 13.5973 32.0289 13.1132 32.0289H7.64453C7.16041 32.0289 6.76797 31.6364 6.76797 31.1523C6.76797 30.6683 7.16041 30.2758 7.64453 30.2758Z"
-                                                    fill="#8E8E93" stroke="white" stroke-width="0.2" />
+                                                    fill="#60209D" stroke="white" stroke-width="0.2" />
                                                 <path
                                                     d="M3.61328 36.5258H17.3827C17.8668 36.5258 18.2593 36.9183 18.2593 37.4023C18.2593 37.8864 17.8668 38.2789 17.3827 38.2789H3.61328C3.12916 38.2789 2.73672 37.8864 2.73672 37.4023C2.73672 36.9183 3.12916 36.5258 3.61328 36.5258Z"
-                                                    fill="#8E8E93" stroke="white" stroke-width="0.2" />
+                                                    fill="#60209D" stroke="white" stroke-width="0.2" />
                                             </g>
                                             <defs>
                                                 <clipPath id="clip0_1505_28697">
@@ -3932,10 +3964,10 @@
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
                                                 d="M33.8668 1.7959H18.0927C15.6302 1.7959 13.6269 3.79882 13.6269 6.26215V14.193H6.12893C3.6681 14.1934 1.66602 16.1963 1.66602 18.6571V28.5738C1.66602 31.0347 3.6681 33.038 6.12893 33.038H6.82768V36.1263C6.82768 36.9651 7.30518 37.6959 8.07393 38.0305C8.34143 38.1472 8.62477 38.2042 8.9056 38.2042C9.43297 38.2041 9.94074 38.0043 10.3268 37.6451L15.2314 33.038H21.9077C24.3694 33.038 26.3718 31.0351 26.3718 28.5738V22.1421L29.6752 25.2367C29.9697 25.5146 30.3394 25.6999 30.7382 25.7695C31.1371 25.8391 31.5477 25.7901 31.9189 25.6284C32.2904 25.4677 32.6068 25.2018 32.8289 24.8634C33.051 24.525 33.1692 24.129 33.1689 23.7242V20.6446H33.8673C36.3293 20.6451 38.3327 18.6417 38.3327 16.1788V6.26215C38.3327 3.79923 36.3293 1.7959 33.8668 1.7959ZM21.9077 30.7838H14.7856C14.4989 30.7841 14.223 30.8934 14.0139 31.0896L9.08185 35.7234V31.9109C9.0819 31.7629 9.05279 31.6163 8.99617 31.4795C8.93954 31.3428 8.85653 31.2185 8.75186 31.1138C8.64719 31.0091 8.52292 30.9261 8.38615 30.8695C8.24938 30.8129 8.10279 30.7838 7.95477 30.7838H6.12893C5.54312 30.7832 4.98151 30.5501 4.5674 30.1357C4.15329 29.7214 3.92051 29.1596 3.92018 28.5738V18.6571C3.92051 18.0713 4.15329 17.5096 4.5674 17.0952C4.98151 16.6809 5.54312 16.4478 6.12893 16.4471H13.6406C13.7806 18.7851 15.721 20.6451 18.0927 20.6451H24.1173V28.5738C24.1169 29.1598 23.884 29.7216 23.4698 30.136C23.0555 30.5504 22.4936 30.7834 21.9077 30.7838ZM36.0785 16.1788C36.0779 16.7652 35.8446 17.3274 35.43 17.7421C35.0154 18.1568 34.4533 18.3901 33.8668 18.3909H32.0414C31.8934 18.3908 31.7468 18.42 31.6101 18.4766C31.4733 18.5332 31.349 18.6162 31.2443 18.7209C31.1397 18.8256 31.0567 18.9498 31 19.0866C30.9434 19.2234 30.9143 19.37 30.9144 19.518V23.3109L26.0218 18.7192L25.9985 18.6971L25.9956 18.7005L25.9898 18.6951C25.7808 18.4995 25.5051 18.3909 25.2189 18.3913H18.0927C17.5063 18.3905 16.9441 18.1572 16.5295 17.7425C16.1149 17.3278 15.8817 16.7656 15.881 16.1792V16.1771H15.8893L15.881 6.26298C15.8817 5.67658 16.1149 5.11437 16.5295 4.69968C16.9441 4.28499 17.5063 4.05167 18.0927 4.0509H33.8668C34.4533 4.05167 35.0154 4.28499 35.43 4.69968C35.8446 5.11437 36.0779 5.67658 36.0785 6.26298V16.1788Z"
-                                                fill="#FFA920" />
+                                                fill="#60209D" />
                                             <path
                                                 d="M30.4872 7.77051H21.4713C21.1724 7.77051 20.8857 7.88925 20.6744 8.10062C20.463 8.31199 20.3442 8.59867 20.3442 8.89759C20.3442 9.19651 20.463 9.48319 20.6744 9.69456C20.8857 9.90593 21.1724 10.0247 21.4713 10.0247H30.4876C30.6356 10.0246 30.7821 9.99547 30.9189 9.9388C31.0556 9.88213 31.1798 9.79909 31.2845 9.69441C31.3891 9.58973 31.4721 9.46547 31.5287 9.32871C31.5854 9.19196 31.6145 9.04539 31.6145 8.89738C31.6144 8.74937 31.5852 8.60282 31.5286 8.46608C31.4719 8.32935 31.3889 8.20512 31.2842 8.10048C31.1795 7.99584 31.0553 7.91284 30.9185 7.85622C30.7817 7.79961 30.6352 7.77048 30.4872 7.77051ZM30.4872 12.2784H21.4713C21.1724 12.2784 20.8857 12.3972 20.6744 12.6085C20.463 12.8199 20.3442 13.1066 20.3442 13.4055C20.3442 13.7044 20.463 13.9911 20.6744 14.2025C20.8857 14.4138 21.1724 14.5326 21.4713 14.5326H30.4876C30.6356 14.5326 30.7821 14.5034 30.9189 14.4467C31.0556 14.3901 31.1798 14.307 31.2845 14.2023C31.3891 14.0976 31.4721 13.9734 31.5287 13.8366C31.5854 13.6999 31.6145 13.5533 31.6145 13.4053C31.6144 13.2573 31.5852 13.1107 31.5286 12.974C31.4719 12.8373 31.3889 12.713 31.2842 12.6084C31.1795 12.5038 31.0553 12.4208 30.9185 12.3641C30.7817 12.3075 30.6352 12.2784 30.4872 12.2784ZM9.52049 22.5163C9.38549 22.5605 9.27258 22.6505 9.16008 22.7409C8.95716 22.9655 8.82174 23.2605 8.82174 23.553C8.82174 23.8455 8.95674 24.1384 9.16008 24.3409C9.38549 24.5655 9.65591 24.6801 9.94883 24.6801C10.1063 24.6801 10.2647 24.6338 10.3997 24.5897C10.5351 24.5434 10.6476 24.453 10.7601 24.3409C10.963 24.1384 11.0984 23.8455 11.0984 23.553C11.0984 23.2605 10.963 22.9651 10.7601 22.7409C10.4447 22.4484 9.94883 22.3359 9.52049 22.5163ZM14.9076 22.5163C14.4792 22.3359 13.9834 22.448 13.668 22.7409C13.4651 22.9655 13.3526 23.2605 13.3526 23.553C13.3526 23.8455 13.4651 24.1384 13.668 24.3409C13.7805 24.453 13.8934 24.5434 14.0284 24.5897C14.1863 24.6338 14.3213 24.6801 14.4792 24.6801C14.7726 24.6801 15.043 24.5655 15.2684 24.3409C15.4713 24.1384 15.6067 23.8455 15.6067 23.553C15.6067 23.2605 15.4713 22.9651 15.2684 22.7409C15.1555 22.6509 15.043 22.5605 14.9076 22.5163ZM19.4159 22.5163C19.1455 22.4018 18.8297 22.4018 18.5367 22.5163C18.4017 22.5605 18.2888 22.6505 18.1763 22.7409C17.9734 22.9655 17.838 23.2605 17.838 23.553C17.838 23.8455 17.973 24.1384 18.1763 24.3409C18.4017 24.5655 18.6722 24.6801 18.9655 24.6801C19.123 24.6801 19.2809 24.6338 19.4163 24.5897C19.5517 24.5434 19.6642 24.453 19.7772 24.3409C19.9801 24.1384 20.0926 23.8455 20.0926 23.553C20.0926 23.2605 19.9797 22.9651 19.7772 22.7409C19.6638 22.6509 19.5513 22.5605 19.4159 22.5163ZM7.70716 11.1518H9.96133C10.2602 11.1518 10.5469 11.033 10.7583 10.8216C10.9697 10.6103 11.0884 10.3236 11.0884 10.0247C11.0884 9.72575 10.9697 9.43908 10.7583 9.22771C10.5469 9.01634 10.2602 8.89759 9.96133 8.89759H7.70716C7.40824 8.89759 7.12156 9.01634 6.91019 9.22771C6.69882 9.43908 6.58008 9.72575 6.58008 10.0247C6.58008 10.3236 6.69882 10.6103 6.91019 10.8216C7.12156 11.033 7.40824 11.1518 7.70716 11.1518ZM32.5013 29.1838H30.2472C29.9482 29.1838 29.6616 29.3026 29.4502 29.514C29.2388 29.7253 29.1201 30.012 29.1201 30.3109C29.1201 30.6098 29.2388 30.8965 29.4502 31.1079C29.6616 31.3193 29.9482 31.438 30.2472 31.438H32.5013C32.8003 31.438 33.0869 31.3193 33.2983 31.1079C33.5097 30.8965 33.6284 30.6098 33.6284 30.3109C33.6284 30.012 33.5097 29.7253 33.2983 29.514C33.0869 29.3026 32.8003 29.1838 32.5013 29.1838Z"
-                                                fill="#FFA920" />
+                                                fill="#60209D" />
                                         </svg>
                                     </div>
                                 </div>
@@ -3948,23 +3980,44 @@
                                                 <label class="font-2 fw-8 fs-16">Your name</label>
                                                 <input type="text" class="tb-my-input" name="name"
                                                     placeholder="Your name" required="">
-                                                <img class="img-icon" src="assets/images/icon/contact-name.svg"
-                                                    alt="images">
+                                                <svg class="img-icon" width="18" height="18"
+                                                    viewBox="0 0 18 18" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <path
+                                                        d="M11.8125 4.5C11.8125 5.24592 11.5162 5.96129 10.9887 6.48874C10.4613 7.01618 9.74592 7.3125 9 7.3125C8.25408 7.3125 7.53871 7.01618 7.01126 6.48874C6.48381 5.96129 6.1875 5.24592 6.1875 4.5C6.1875 3.75408 6.48381 3.03871 7.01126 2.51126C7.53871 1.98382 8.25408 1.6875 9 1.6875C9.74592 1.6875 10.4613 1.98382 10.9887 2.51126C11.5162 3.03871 11.8125 3.75408 11.8125 4.5ZM3.37575 15.0885C3.39985 13.6128 4.003 12.2056 5.05513 11.1705C6.10726 10.1354 7.52406 9.55535 9 9.55535C10.4759 9.55535 11.8927 10.1354 12.9449 11.1705C13.997 12.2056 14.6001 13.6128 14.6242 15.0885C12.8598 15.8976 10.9411 16.3151 9 16.3125C6.993 16.3125 5.088 15.8745 3.37575 15.0885Z"
+                                                        stroke="#60209d" stroke-width="1.5" stroke-linecap="round"
+                                                        stroke-linejoin="round" />
+                                                </svg>
+
                                             </fieldset>
                                             <div class="text-wrap flex">
                                                 <fieldset class="email-wrap style-text">
                                                     <label class="font-2 fw-8 fs-16">Email</label>
                                                     <input type="email" class="tb-my-input" name="email"
                                                         placeholder="Email" required="">
-                                                    <img class="img-icon img-email"
-                                                        src="assets/images/icon/contact-email.svg" alt="images">
+                                                    <svg class="img-icon img-email" width="18" height="13"
+                                                        viewBox="0 0 18 13" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M16.3125 2.5625V10.4375C16.3125 10.8851 16.1347 11.3143 15.8182 11.6307C15.5018 11.9472 15.0726 12.125 14.625 12.125H3.375C2.92745 12.125 2.49822 11.9472 2.18176 11.6307C1.86529 11.3143 1.6875 10.8851 1.6875 10.4375V2.5625M16.3125 2.5625C16.3125 2.11495 16.1347 1.68573 15.8182 1.36926C15.5018 1.05279 15.0726 0.875 14.625 0.875H3.375C2.92745 0.875 2.49822 1.05279 2.18176 1.36926C1.86529 1.68573 1.6875 2.11495 1.6875 2.5625M16.3125 2.5625V2.74475C16.3125 3.03286 16.2388 3.31618 16.0983 3.56772C15.9578 3.81926 15.7553 4.03065 15.51 4.18175L9.885 7.643C9.61891 7.8069 9.31252 7.89369 9 7.89369C8.68748 7.89369 8.38109 7.8069 8.115 7.643L2.49 4.1825C2.24469 4.0314 2.04215 3.82001 1.90168 3.56847C1.7612 3.31693 1.68747 3.03361 1.6875 2.7455V2.5625"
+                                                            stroke="#60209d" stroke-width="1.5"
+                                                            stroke-linecap="round" stroke-linejoin="round" />
+                                                    </svg>
+
                                                 </fieldset>
                                                 <fieldset class="phone-wrap style-text">
                                                     <label class="font-2 fw-8 fs-16">Phone</label>
                                                     <input type="tel" class="tb-my-input" name="tel"
                                                         placeholder="Phone" required="">
-                                                    <img class="img-icon" src="assets/images/icon/contact-phone.svg"
-                                                        alt="images">
+                                                    <svg class="img-icon" width="18" height="17"
+                                                        viewBox="0 0 18 17" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M1.6875 4.5625C1.6875 10.7755 6.7245 15.8125 12.9375 15.8125H14.625C15.0726 15.8125 15.5018 15.6347 15.8182 15.3182C16.1347 15.0018 16.3125 14.5726 16.3125 14.125V13.096C16.3125 12.709 16.0493 12.3715 15.6735 12.2778L12.3563 11.4482C12.0263 11.3657 11.6798 11.4895 11.4765 11.761L10.749 12.7308C10.5375 13.0128 10.1722 13.1372 9.8415 13.0157C8.61366 12.5643 7.49861 11.8514 6.57359 10.9264C5.64856 10.0014 4.93566 8.88634 4.48425 7.6585C4.36275 7.32775 4.48725 6.9625 4.76925 6.751L5.739 6.0235C6.01125 5.82025 6.13425 5.473 6.05175 5.14375L5.22225 1.8265C5.1766 1.64402 5.07129 1.48203 4.92304 1.36625C4.77479 1.25048 4.5921 1.18756 4.404 1.1875H3.375C2.92745 1.1875 2.49822 1.36529 2.18176 1.68176C1.86529 1.99822 1.6875 2.42745 1.6875 2.875V4.5625Z"
+                                                            stroke="#60209d" stroke-width="1.5"
+                                                            stroke-linecap="round" stroke-linejoin="round" />
+                                                    </svg>
+
                                                 </fieldset>
                                             </div>
                                             <div class="wd-find-select">
@@ -3977,8 +4030,15 @@
                                                         <li data-value="house" class="option">House</li>
                                                         <li data-value="rent" class="option">Rent</li>
                                                     </ul>
-                                                    <img class="img-icon icon-style"
-                                                        src="assets/images/icon/contact-choose.svg" alt="images">
+                                                    <svg class="img-icon icon-style" width="18" height="15"
+                                                        viewBox="0 0 18 15" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M6.1875 14.25V10.5938C6.1875 10.128 6.5655 9.75 7.03125 9.75H8.71875C9.1845 9.75 9.5625 10.128 9.5625 10.5938V14.25M9.5625 14.25H12.9375V1.15875M9.5625 14.25H15.1875V6.5625M12.9375 1.15875L14.0625 0.75M12.9375 1.15875L5.0625 4.023M15.1875 6.5625L12.9375 5.8125M15.1875 6.5625L16.3125 6.9375M1.6875 14.25H2.8125M2.8125 14.25H16.3125M2.8125 14.25V0.75H5.0625V4.023M1.6875 5.25L5.0625 4.023"
+                                                            stroke="#60209d" stroke-width="1.5"
+                                                            stroke-linecap="round" stroke-linejoin="round" />
+                                                    </svg>
+
                                                 </div>
                                             </div>
                                             <fieldset class="message-wrap">
@@ -4027,24 +4087,25 @@
                         <div class="col-lg-4 col-md-4">
                             <div class="box hover-img">
                                 <div class="images img-style relative ">
-                                    <a href="blog-detail.html"><img src="assets/images/img-box/blog-1.jpg"
-                                            alt="images"></a>
+                                    <a href="{{ route('blogDetail') }}"><img
+                                            src="assets/images/img-box/blog-1.jpg" alt="images"></a>
                                     <div class="sub-box flex align-center fs-13 fw-6">
                                         <div class="title-1">April</div><a class="title-2 text-color-3"
                                             href="#">Housing</a>
                                     </div>
                                 </div>
                                 <div class="content center">
-                                    <h3 class="link-style-1"><a href="blog-detail.html">Building gains into housing
+                                    <h3 class="link-style-1"><a href="{{ route('blogDetail') }}">Building gains
+                                            into housing
                                             stocks and how to trade the sector</a></h3>
                                     <div class="meta">
-                                        <a href="blog-detail.html"
+                                        <a href="{{ route('blogDetail') }}"
                                             class="btn-button flex align-center justify-center fs-13 fw-6 text-color-3"><span>Read
                                                 more </span>
                                             <svg width="13" height="12" viewBox="0 0 13 12"
                                                 fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M0.875 6H12.125M12.125 6L7.0625 0.9375M12.125 6L7.0625 11.0625"
-                                                    stroke="#FFA920" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke="#60209D" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </svg>
                                         </a>
@@ -4055,24 +4116,25 @@
                         <div class="col-lg-4 col-md-4">
                             <div class="box hover-img">
                                 <div class="images img-style relative ">
-                                    <a href="blog-detail.html"><img src="assets/images/img-box/blog-2.jpg"
-                                            alt="images"></a>
+                                    <a href="{{ route('blogDetail') }}"><img
+                                            src="assets/images/img-box/blog-2.jpg" alt="images"></a>
                                     <div class="sub-box flex align-center fs-13 fw-6">
                                         <div class="title-1">April</div><a class="title-2 text-color-3"
                                             href="#">Housing</a>
                                     </div>
                                 </div>
                                 <div class="content center">
-                                    <h3 class="link-style-1"><a href="blog-detail.html">92% of millennial homebuyers
+                                    <h3 class="link-style-1"><a href="{{ route('blogDetail') }}">92% of millennial
+                                            homebuyers
                                             say inflation has impacted their plans</a></h3>
                                     <div class="meta">
-                                        <a href="blog-detail.html"
+                                        <a href="{{ route('blogDetail') }}"
                                             class="btn-button flex align-center justify-center fs-13 fw-6 text-color-3"><span>Read
                                                 more </span>
                                             <svg width="13" height="12" viewBox="0 0 13 12"
                                                 fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M0.875 6H12.125M12.125 6L7.0625 0.9375M12.125 6L7.0625 11.0625"
-                                                    stroke="#FFA920" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke="#60209D" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </svg>
                                         </a>
@@ -4083,24 +4145,25 @@
                         <div class="col-lg-4 col-md-4">
                             <div class="box hover-img">
                                 <div class="images img-style relative ">
-                                    <a href="blog-detail.html"><img src="assets/images/img-box/blog-3.jpg"
-                                            alt="images"></a>
+                                    <a href="{{ route('blogDetail') }}"><img
+                                            src="assets/images/img-box/blog-3.jpg" alt="images"></a>
                                     <div class="sub-box flex align-center fs-13 fw-6">
                                         <div class="title-1">April</div><a class="title-2 text-color-3"
                                             href="#">Housing</a>
                                     </div>
                                 </div>
                                 <div class="content center">
-                                    <h3 class="link-style-1"><a href="blog-detail.html">We are hiring ‘moderately,’
+                                    <h3 class="link-style-1"><a href="{{ route('blogDetail') }}">We are hiring
+                                            ‘moderately,’
                                             says Compass CEO</a></h3>
                                     <div class="meta">
-                                        <a href="blog-detail.html"
+                                        <a href="{{ route('blogDetail') }}"
                                             class="btn-button flex align-center justify-center fs-13 fw-6 text-color-3"><span>Read
                                                 more </span>
                                             <svg width="13" height="12" viewBox="0 0 13 12"
                                                 fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M0.875 6H12.125M12.125 6L7.0625 0.9375M12.125 6L7.0625 11.0625"
-                                                    stroke="#FFA920" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke="#60209D" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </svg>
                                         </a>
@@ -4130,13 +4193,13 @@
                                                     fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path
                                                         d="M28.0934 11.3076H25.2697V15.9908C25.2697 18.3363 23.3615 20.2445 21.0159 20.2445H14.1609V21.9843C14.1609 23.0355 15.0162 23.8909 16.0675 23.8909H22.1349L25.0277 27.3976C25.201 27.6074 25.4569 27.7249 25.7222 27.7249C25.7881 27.7249 25.8547 27.7175 25.9208 27.7027C26.252 27.6278 26.513 27.3726 26.5954 27.043L27.3836 23.8909H28.0934C29.1446 23.8909 30 23.0358 30 21.9843V13.2142C30 12.1627 29.1446 11.3076 28.0934 11.3076Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                     <path
                                                         d="M21.0159 0H2.45361C1.10069 0 0 1.10069 0 2.45361V15.9906C0 17.3435 1.10069 18.444 2.45361 18.444H4.25743L5.56664 23.6799C5.6488 24.0097 5.90973 24.2647 6.24115 24.3398C6.3073 24.3546 6.37367 24.362 6.43982 24.362C6.70509 24.3617 6.96098 24.2443 7.13402 24.0344L11.7462 18.444H21.0159C22.3689 18.444 23.4695 17.3435 23.4695 15.9906V2.45361C23.4695 1.10069 22.3689 0 21.0159 0V0ZM17.021 8.59955L15.0309 10.5396L15.5008 13.2786C15.5587 13.6164 15.4198 13.9577 15.1426 14.1591C14.9858 14.2731 14.8002 14.331 14.6134 14.331C14.4701 14.331 14.3264 14.2969 14.1946 14.2275L11.7348 12.9343L9.27475 14.2275C8.97148 14.3871 8.60413 14.3605 8.32672 14.1591C8.04955 13.9577 7.91084 13.6164 7.96875 13.2786L8.43864 10.5393L6.44829 8.59955C6.20316 8.36037 6.11481 8.00262 6.22055 7.67693C6.32652 7.351 6.60828 7.11342 6.94725 7.06421L9.69749 6.66458L10.9275 4.17229C11.0793 3.86513 11.3921 3.67058 11.7348 3.67058C12.0774 3.67058 12.3903 3.86513 12.5418 4.17229L13.7718 6.66458L16.5221 7.06421C16.8613 7.11342 17.143 7.351 17.2488 7.67693C17.3547 8.00285 17.2664 8.36037 17.021 8.59955Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                     <path
                                                         d="M12.367 7.8858L11.7348 6.60498L11.1026 7.8858C10.9715 8.15154 10.7181 8.33556 10.4249 8.37836L9.01111 8.58366L10.034 9.5809C10.2462 9.78758 10.343 10.0856 10.2928 10.3776L10.0514 11.7855L11.3159 11.1208C11.578 10.983 11.8914 10.983 12.1537 11.1208L13.418 11.7855L13.1765 10.3776C13.1264 10.0856 13.2232 9.78758 13.4354 9.5809L14.4583 8.58366L13.0447 8.37836C12.7515 8.33556 12.4981 8.15154 12.367 7.8858Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                 </svg>
                                                 <div class="texts font-2 fs-16 fw-5 lh-24">
                                                     “ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
@@ -4162,13 +4225,13 @@
                                                     fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path
                                                         d="M28.0934 11.3076H25.2697V15.9908C25.2697 18.3363 23.3615 20.2445 21.0159 20.2445H14.1609V21.9843C14.1609 23.0355 15.0162 23.8909 16.0675 23.8909H22.1349L25.0277 27.3976C25.201 27.6074 25.4569 27.7249 25.7222 27.7249C25.7881 27.7249 25.8547 27.7175 25.9208 27.7027C26.252 27.6278 26.513 27.3726 26.5954 27.043L27.3836 23.8909H28.0934C29.1446 23.8909 30 23.0358 30 21.9843V13.2142C30 12.1627 29.1446 11.3076 28.0934 11.3076Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                     <path
                                                         d="M21.0159 0H2.45361C1.10069 0 0 1.10069 0 2.45361V15.9906C0 17.3435 1.10069 18.444 2.45361 18.444H4.25743L5.56664 23.6799C5.6488 24.0097 5.90973 24.2647 6.24115 24.3398C6.3073 24.3546 6.37367 24.362 6.43982 24.362C6.70509 24.3617 6.96098 24.2443 7.13402 24.0344L11.7462 18.444H21.0159C22.3689 18.444 23.4695 17.3435 23.4695 15.9906V2.45361C23.4695 1.10069 22.3689 0 21.0159 0V0ZM17.021 8.59955L15.0309 10.5396L15.5008 13.2786C15.5587 13.6164 15.4198 13.9577 15.1426 14.1591C14.9858 14.2731 14.8002 14.331 14.6134 14.331C14.4701 14.331 14.3264 14.2969 14.1946 14.2275L11.7348 12.9343L9.27475 14.2275C8.97148 14.3871 8.60413 14.3605 8.32672 14.1591C8.04955 13.9577 7.91084 13.6164 7.96875 13.2786L8.43864 10.5393L6.44829 8.59955C6.20316 8.36037 6.11481 8.00262 6.22055 7.67693C6.32652 7.351 6.60828 7.11342 6.94725 7.06421L9.69749 6.66458L10.9275 4.17229C11.0793 3.86513 11.3921 3.67058 11.7348 3.67058C12.0774 3.67058 12.3903 3.86513 12.5418 4.17229L13.7718 6.66458L16.5221 7.06421C16.8613 7.11342 17.143 7.351 17.2488 7.67693C17.3547 8.00285 17.2664 8.36037 17.021 8.59955Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                     <path
                                                         d="M12.367 7.8858L11.7348 6.60498L11.1026 7.8858C10.9715 8.15154 10.7181 8.33556 10.4249 8.37836L9.01111 8.58366L10.034 9.5809C10.2462 9.78758 10.343 10.0856 10.2928 10.3776L10.0514 11.7855L11.3159 11.1208C11.578 10.983 11.8914 10.983 12.1537 11.1208L13.418 11.7855L13.1765 10.3776C13.1264 10.0856 13.2232 9.78758 13.4354 9.5809L14.4583 8.58366L13.0447 8.37836C12.7515 8.33556 12.4981 8.15154 12.367 7.8858Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                 </svg>
                                                 <div class="texts font-2 fs-16 fw-5 lh-24">
                                                     “ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
@@ -4194,13 +4257,13 @@
                                                     fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path
                                                         d="M28.0934 11.3076H25.2697V15.9908C25.2697 18.3363 23.3615 20.2445 21.0159 20.2445H14.1609V21.9843C14.1609 23.0355 15.0162 23.8909 16.0675 23.8909H22.1349L25.0277 27.3976C25.201 27.6074 25.4569 27.7249 25.7222 27.7249C25.7881 27.7249 25.8547 27.7175 25.9208 27.7027C26.252 27.6278 26.513 27.3726 26.5954 27.043L27.3836 23.8909H28.0934C29.1446 23.8909 30 23.0358 30 21.9843V13.2142C30 12.1627 29.1446 11.3076 28.0934 11.3076Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                     <path
                                                         d="M21.0159 0H2.45361C1.10069 0 0 1.10069 0 2.45361V15.9906C0 17.3435 1.10069 18.444 2.45361 18.444H4.25743L5.56664 23.6799C5.6488 24.0097 5.90973 24.2647 6.24115 24.3398C6.3073 24.3546 6.37367 24.362 6.43982 24.362C6.70509 24.3617 6.96098 24.2443 7.13402 24.0344L11.7462 18.444H21.0159C22.3689 18.444 23.4695 17.3435 23.4695 15.9906V2.45361C23.4695 1.10069 22.3689 0 21.0159 0V0ZM17.021 8.59955L15.0309 10.5396L15.5008 13.2786C15.5587 13.6164 15.4198 13.9577 15.1426 14.1591C14.9858 14.2731 14.8002 14.331 14.6134 14.331C14.4701 14.331 14.3264 14.2969 14.1946 14.2275L11.7348 12.9343L9.27475 14.2275C8.97148 14.3871 8.60413 14.3605 8.32672 14.1591C8.04955 13.9577 7.91084 13.6164 7.96875 13.2786L8.43864 10.5393L6.44829 8.59955C6.20316 8.36037 6.11481 8.00262 6.22055 7.67693C6.32652 7.351 6.60828 7.11342 6.94725 7.06421L9.69749 6.66458L10.9275 4.17229C11.0793 3.86513 11.3921 3.67058 11.7348 3.67058C12.0774 3.67058 12.3903 3.86513 12.5418 4.17229L13.7718 6.66458L16.5221 7.06421C16.8613 7.11342 17.143 7.351 17.2488 7.67693C17.3547 8.00285 17.2664 8.36037 17.021 8.59955Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                     <path
                                                         d="M12.367 7.8858L11.7348 6.60498L11.1026 7.8858C10.9715 8.15154 10.7181 8.33556 10.4249 8.37836L9.01111 8.58366L10.034 9.5809C10.2462 9.78758 10.343 10.0856 10.2928 10.3776L10.0514 11.7855L11.3159 11.1208C11.578 10.983 11.8914 10.983 12.1537 11.1208L13.418 11.7855L13.1765 10.3776C13.1264 10.0856 13.2232 9.78758 13.4354 9.5809L14.4583 8.58366L13.0447 8.37836C12.7515 8.33556 12.4981 8.15154 12.367 7.8858Z"
-                                                        fill="#FFA920" />
+                                                        fill="#60209D" />
                                                 </svg>
                                                 <div class="texts font-2 fs-16 fw-5 lh-24">
                                                     “ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
@@ -4252,7 +4315,7 @@
                                     </div>
                                 </div>
                                 <div class="button-footer center">
-                                    <a class="sc-button" href="contact.html">
+                                    <a class="sc-button" href="{{ route('contact') }}">
                                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -4278,7 +4341,7 @@
                                     </div>
                                 </div>
                                 <div class="button-footer center">
-                                    <a class="sc-button" href="properties-grid.html">
+                                    <a class="sc-button" href="{{ route('propertyGrid') }}">
                                         <svg width="25" height="24" viewBox="0 0 25 24" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -4402,12 +4465,11 @@
                             <div class="widget widget-menu style-3 ">
                                 <h3>Our Company</h3>
                                 <ul class="box-menu">
-                                    <li><a href="properties-list.html">Property For Sale</a></li>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="agents.html">Our Agents</a></li>
-                                    <li><a href="portfolio.html">FAQ</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="{{ route('propertyGrid') }}">Property For Sale</a></li>
+                                    <li><a href="{{ route('about') }}">About Us</a></li>
+                                    <li><a href="{{ route('agents') }}">Our Agents</a></li>
+                                    <li><a href="{{ route('faq') }}">FAQ</a></li>
+                                    <li><a href="{{ route('contact') }}">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -4448,18 +4510,18 @@
                         <div class="col-lg-12">
                             <div class="wrap-logo flex align-center justify-space">
                                 <div class="logo-footer style box-1" id="logo-footer">
-                                    <a href="index.html">
+                                    <a href="{{ route('index') }}">
                                         <img src="assets/images/logo/footer_putih.png" alt="img"
                                             width="197" height="48">
                                     </a>
                                 </div>
                                 <div class="box-menu box-2">
                                     <ul class="menu-bottom flex align-center fs-16 fw-6">
-                                        <li><a href="index.html">Home</a> </li>
-                                        <li><a href="properties-grid.html">Property</a> </li>
-                                        <li><a href="agents.html">Agents</a> </li>
-                                        <li><a href="blog.html">Blog</a> </li>
-                                        <li><a href="contact.html">Contact</a> </li>
+                                        <li><a href="{{ route('index') }}">Home</a> </li>
+                                        <li><a href="{{ route('propertyGrid') }}">Property</a> </li>
+                                        <li><a href="{{ route('about') }}">About</a> </li>
+                                        <li><a href="{{ route('blog') }}">Blog</a> </li>
+                                        <li><a href="{{ route('contact') }}">Contact</a> </li>
                                     </ul>
                                 </div>
                                 <div class="icon-social box-3 text-color-1">
@@ -4479,7 +4541,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="title-bottom center"> Copyright © 2024. Designed & Developed by <a
-                                    href="" class="text-color-1">TOWNZHUB</a> </div>
+                                    href="#" class="text-color-1">TOWNZHUB</a> </div>
                         </div>
                     </div>
                 </div>
